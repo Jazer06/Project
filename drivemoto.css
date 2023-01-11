@@ -102,7 +102,6 @@ color: blue;
 }
 .swiper{
   width: 100%;
- 
 }
 .card-test{
 	width: 100%;
@@ -215,7 +214,6 @@ a{
     background: #1C62CD;
 }
 .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
-
     background: #1C62CD;
 }
 .btn-list-ls{
@@ -247,7 +245,6 @@ a{
 	background: unset;
 }
 .btn-check-item{
-
   background-color: white;
   border: none;
   opacity: 0.8;
